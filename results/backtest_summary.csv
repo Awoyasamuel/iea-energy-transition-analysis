@@ -1,0 +1,7 @@
+series,model,MAE_pp,coverage_90,mean_width_pp,n
+modern_renewables,M0 random walk + drift,0.46,0.17,0.54,24
+modern_renewables,M1 linear trend + AR(1),0.54,0.17,0.65,24
+modern_renewables,M2 smooth local trend,0.09,0.96,0.8,24
+renewables,M0 random walk + drift,0.84,0.17,1.04,24
+renewables,M1 linear trend + AR(1),0.97,0.17,1.23,24
+renewables,M2 smooth local trend,0.24,0.96,1.7,24
